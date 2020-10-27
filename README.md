@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is just a place I put some code in.
 <!--
 **gaoaidi/Gaoaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
